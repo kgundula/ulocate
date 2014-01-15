@@ -4,5 +4,7 @@
     <string name="app_name">uLocate</string>
     <string name="action_settings">Settings</string>
     <string name="welcome">welcome world!</string>
-
+	<string name="home">home</string>
+	<string name="profile">profile</string>
+	<string name="search">search</string>
 </resources>
